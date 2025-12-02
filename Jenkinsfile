@@ -1,2 +1,2 @@
-@Library("cicd")_
+@Library("lab-cicd")_
 apiBackend()
